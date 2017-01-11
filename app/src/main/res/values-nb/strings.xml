@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Min første App</string>
+    <string name="hello_world">Hallo Verden!</string>
+    <string name="how_are_you">Hvordan går det?</string>
+</resources>
